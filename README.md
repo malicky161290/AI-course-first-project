@@ -46,13 +46,10 @@ Therefore the biggest challenge is to incorporate in the monitor an option that 
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you need to move on? 
+I need people with the following skills to get this project of the ground:
+* AI python programmer
+* Data analyst and data builder
+* UX/UI Designer
 
+The only way this project can take of the ground is to find a cofounder that has technical skills and can build the product. My skill is more in marketing and business development, but sadly I cannot technically build this project.
 
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
