@@ -3,7 +3,7 @@ Independent value benchmaker of the residential real estate market
 
 ## Summary
 
-It is very hard to establish whether a residential real estate property is undervalued, overvalued or on par. It should not be like that. Based on several indicators that are scattered in various government statistical departments, we can put an end of it and once and for all establish a clear cut method to provide everyone with a benchmark for the value of their own residential property.
+It is very hard to establish the current value of a residential real estate property. Based on several indicators that are scattered on the internet, we can once and for all establish a clear cut method to provide everyone with a benchmark for the value of any residential property.
 
 ## Background
 
