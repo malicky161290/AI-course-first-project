@@ -1,5 +1,5 @@
 # Residential real estate market monitor
-Independent value setter of the residential real estate market
+Independent value benchmaker of the residential real estate market
 
 ## Summary
 
