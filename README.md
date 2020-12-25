@@ -29,9 +29,8 @@ The user has the following needs:
 * Select the right property to buy based on value indicators and use these indicators as bargaining power while negotiating the price
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+
+We will collect various information that normally you have to look for in various sources and through scraping this data, putting a weight to the information and through the method of linear regression and nearest neighbor method that will allow us to get the suggested value and then through logistic regression, we will establish the probability of that number to be exact and form a range for a benchmark.
 
 | Source of Data      | Description |
 | ----------- | ----------- |
@@ -58,7 +57,10 @@ If you need to use links, here's an example:
 | Public transportation  | Nearest tram stop |
 | Public transportation  | Nearest metro stop |
 | Public transportation  | Airport |
-
+| Economy  | Inflation |
+| Economy  | Economy growth |
+| Economy  | City economy growth |
+| Economy  | State economy growth |
 
 
 ## Challenges
