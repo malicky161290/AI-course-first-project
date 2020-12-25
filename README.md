@@ -19,31 +19,14 @@ This topic is important, because it brings stability to the market and useful to
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+The solution will enable a small time investor that purchase or sells about one property per year with educated information scan the market and provide a qualified offer.
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+The Residential real estate market monitor can be used while finding a suitable property to buy as an investment, or for your own use. The user is most likely a person in the age between 30 - 50 years old that belongs to the middle class and is looking to invest their money to the real estate market. 
 
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
+The user has the following needs:
+* Understand the value of the property
+* Understanding what price to offer/pay for the property
+* Select the right property to buy based on value indicators and use these indicators as bargaining power while negotiating the price
 
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
@@ -61,7 +44,7 @@ What does your project _not_ solve? Which limitations and ethical considerations
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+How could your project grow and become something even more? What kind of skills, what kind of assistance would you need to move on? 
 
 
 ## Acknowledgments
