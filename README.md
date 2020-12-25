@@ -1,25 +1,19 @@
-# AI-course-first-project
-Building the first AI project
-
-
-# Project Title
-
-Final project for the Building AI course
+# Residential real estate market monitor
+Independent value setter of the residential real estate market
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+It is very hard to establish whether a residential real estate property is undervalued, overvalued or on par. It should not be like that. Based on several indicators that are scattered in various government statistical departments, we can put an end of it and once and for all establish a clear cut method to provide everyone with a benchmark for the value of their own residential property.
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+It is currently almost impossible to predict whether the asking price for a real estate property is overvalued, undervalued or on par with value. The only reference for most people is the historical price. That is not good enough indicator since asking price, selling price and value are three different things. By combining several publicly found data, we can generate a objective value range, which can help buyers and sellers to set the right price to sell or buy for by offering a benchmark.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+Almost every human in its lifetime is speculating whether to buy a property for its family. Some do it more often as a small time investors and others are selling their owned property to make means for their other life expenditures. The ever present question is around all of them. What should I sell/but it for? As of now, if you are not having big enough real estate company, or if you do not work in a consulting company such as Deloitte, KPMG and others, you do not know really how to answer that questions and you could easily be tricked in underpricing your property while selling and overpaying for a property while buying. 
 
+My motivation for this project lies in my fascination by residential real estate property and my never ending problem of establishing whether my investment is in the right amount, or if I am overpaying for it. I have to say I have been on both ends, but I can judge only based on my feeling never based on merit. I think that I overpayed for a property as well as underpayed for another one. I do not want to think anymore, I want to know.
+
+This topic is important, because it brings stability to the market and useful tool to the hands of small investors and first time property buyers and sellers. It removes the knowledge only from the big corporations and gives it to hands of everyone and therefore it democratizes the market.
 
 ## How is it used?
 
