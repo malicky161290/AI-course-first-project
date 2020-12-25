@@ -40,7 +40,9 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+The project only provides the information now reserved for elites to everyone and therefore provides a level playing field; however, it cannot provide more than that. It can inform the user and allow it to make an educational offer; however, it does not provide and cannot react on a market in real time. It only offers a range where the property should be priced based on its value based on last years data collected by national and state agencies; however, if the market moved within a year the range of the price is moving with it. 
+
+Therefore the biggest challenge is to incorporate in the monitor an option that will give the best possible range of price based on last years data and current level of inflation and supply combined with demand. It will never provide a specific price that will be absolutely accurate. The best it can do is to be a benchmark.
 
 ## What next?
 
