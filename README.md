@@ -33,10 +33,33 @@ Where does your data come from? Do you collect it yourself or do you use data co
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
+| Source of Data      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Property Taxes| $ amount|
+| Market Value| $ amount|
+| Replacement Cost| $ amount|
+| HOA fees   | $ amount|
+| HOA  | Monies in the bank according to the latest tax statement |
+| Historical sales data of comparable properties   | $ amount|
+| Property Orientation   | N, NW, W, SW, S, SE, E, NE |
+| Property size   | standartized dispositions |
+| Property size   | m2 |
+| Property ownership type   | Owner or common ownership |
+| Property size   | standartized dispositions |
+| Property   | Age |
+| Property   | Latest reconstruction |
+| City   | Population |
+| Safety  | Neighborhood crime statistics |
+| Education  | Number of grade schools |
+| Education  | Number of secondary schools |
+| Education  | Grade school ranking |
+| Education  | Secondary school ranking |
+| Public transportation  | Nearest bus stop |
+| Public transportation  | Nearest tram stop |
+| Public transportation  | Nearest metro stop |
+| Public transportation  | Airport |
+
+
 
 ## Challenges
 
